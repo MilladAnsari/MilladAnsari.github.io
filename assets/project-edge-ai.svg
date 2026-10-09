@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" role="img" aria-labelledby="title desc">
+  <title id="title">MPU6050 edge AI motion-classification pipeline</title>
+  <desc id="desc">A clean diagram from sensor data to edge inference and monitoring.</desc>
+  <rect width="900" height="460" fill="#fbf8f4"/>
+  <g fill="none" stroke="#c6b9ac" stroke-width="3" stroke-linecap="round">
+    <path d="M251 230h84M560 230h83"/>
+    <path d="m316 216 19 14-19 14M624 216 643 230l-19 14"/>
+  </g>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <rect x="70" y="137" width="185" height="186" rx="13" fill="#e4eee8" stroke="#476d6c" stroke-width="3"/>
+    <path d="M122 228c20-50 42 50 63 0s42 50 63 0" fill="none" stroke="#476d6c" stroke-width="5"/>
+    <text x="162" y="188" fill="#264457" font-size="24" font-weight="700">MPU6050</text>
+    <text x="162" y="281" fill="#476d6c" font-size="18">motion signals</text>
+    <rect x="336" y="112" width="229" height="236" rx="13" fill="#edf0f1" stroke="#496f88" stroke-width="3"/>
+    <circle cx="450" cy="181" r="35" fill="#496f88" opacity=".16"/>
+    <path d="M427 188c16-40 29 40 45 0" fill="none" stroke="#496f88" stroke-width="5"/>
+    <text x="450" y="254" fill="#264457" font-size="25" font-weight="700">Edge AI</text>
+    <text x="450" y="284" fill="#496f88" font-size="18">WebAssembly inference</text>
+    <text x="602" y="207" fill="#8a6657" font-size="17" font-weight="700">MQTT</text>
+    <rect x="645" y="137" width="185" height="186" rx="13" fill="#fff" stroke="#8a6657" stroke-width="3"/>
+    <text x="737" y="240" fill="#2e78ba" font-family="Arial, sans-serif" font-size="22" font-weight="700">ThingsBoard</text>
+  </g>
+</svg>

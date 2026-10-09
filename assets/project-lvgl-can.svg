@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" role="img" aria-labelledby="title desc">
+  <title id="title">LVGL MicroPython firmware with CAN support</title>
+  <desc id="desc">CAN support shown as an integrated module inside the forked LVGL MicroPython firmware.</desc>
+  <rect width="900" height="460" fill="#fbf8f4"/>
+  <g font-family="Arial, sans-serif">
+    <rect x="135" y="55" width="630" height="350" rx="14" fill="#edf0f1" stroke="#496f88" stroke-width="3"/>
+    <rect x="175" y="95" width="550" height="78" rx="8" fill="#264457"/>
+    <text x="450" y="144" text-anchor="middle" fill="#fbf8f4" font-size="32" font-weight="700">LVGL + MicroPython</text>
+    <path d="M215 213h470" stroke="#496f88" stroke-width="8" stroke-linecap="round"/>
+    <rect x="205" y="242" width="490" height="105" rx="10" fill="#f1e8df" stroke="#8a6657" stroke-width="3"/>
+    <text x="450" y="286" text-anchor="middle" fill="#8a6657" font-size="28" font-weight="700">CAN support added</text>
+    <text x="450" y="318" text-anchor="middle" fill="#264457" font-size="20">integrated into forked firmware</text>
+    <text x="450" y="379" text-anchor="middle" fill="#496f88" font-size="20">forked firmware</text>
+  </g>
+</svg>
